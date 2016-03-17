@@ -1,0 +1,158 @@
+{
+	"total_cus_count": 35,
+	"pages": 3,
+	"cus_array": [{
+		"customer_nick_name": "Tina东方博艾",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "1651",
+		"book_count": 1,
+		"last_come_time": "2016-03-13 15:00:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 1
+	}, {
+		"customer_nick_name": "tommas ",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "1",
+		"book_count": 0,
+		"last_come_time": "2015-11-12 14:30:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 2
+	}, {
+		"customer_nick_name": "V1n-",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "2443",
+		"book_count": 0,
+		"last_come_time": "2016-01-25 15:15:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 3
+	}, {
+		"customer_nick_name": "xiaomi",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "398",
+		"book_count": 0,
+		"last_come_time": "2015-10-20 14:00:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 4
+	}, {
+		"customer_nick_name": "阿潘",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "10",
+		"book_count": 0,
+		"last_come_time": "2016-01-25 17:30:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 5
+	}, {
+		"customer_nick_name": "爱礼堂婚庆",
+		"customer_remark": "dd",
+		"customer_phone": "",
+		"customer_id": "651",
+		"book_count": 0,
+		"last_come_time": "2015-12-10 04:45:00.0",
+		"operate_time": "2016-03-10 11:47:42.0",
+		"operate_mng_name": "r0001",
+		"idx": 6
+	}, {
+		"customer_nick_name": "大魔导",
+		"customer_remark": "wq",
+		"customer_phone": "",
+		"customer_id": "3",
+		"book_count": 2,
+		"last_come_time": "2016-03-12 15:00:00.0",
+		"operate_time": "2016-03-10 12:00:37.0",
+		"operate_mng_name": "r0001",
+		"idx": 7
+	}, {
+		"customer_nick_name": "德罗巴神",
+		"customer_remark": "哈哈",
+		"customer_phone": "",
+		"customer_id": "2",
+		"book_count": 0,
+		"last_come_time": "2016-01-23 13:15:00.0",
+		"operate_time": "2016-03-10 12:12:38.0",
+		"operate_mng_name": "r0001",
+		"idx": 8
+	}, {
+		"customer_nick_name": "二师兄",
+		"customer_remark": "d",
+		"customer_phone": "",
+		"customer_id": "1843",
+		"book_count": 0,
+		"last_come_time": "",
+		"operate_time": "2016-03-10 12:01:30.0",
+		"operate_mng_name": "r0001",
+		"idx": 9
+	}, {
+		"customer_nick_name": "杰森",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "4",
+		"book_count": 0,
+		"last_come_time": "2015-11-17 16:15:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 10
+	}, {
+		"customer_nick_name": "玖信 曹足 18183440615",
+		"customer_remark": "rr",
+		"customer_phone": "",
+		"customer_id": "2487",
+		"book_count": 0,
+		"last_come_time": "",
+		"operate_time": "2016-03-10 12:02:21.0",
+		"operate_mng_name": "r0001",
+		"idx": 11
+	}, {
+		"customer_nick_name": "卡卡罗特",
+		"customer_remark": "霓虹",
+		"customer_phone": "",
+		"customer_id": "14",
+		"book_count": 0,
+		"last_come_time": "2015-12-23 15:30:00.0",
+		"operate_time": "2016-03-10 12:06:03.0",
+		"operate_mng_name": "r0001",
+		"idx": 12
+	}, {
+		"customer_nick_name": "罗",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "53",
+		"book_count": 0,
+		"last_come_time": "2015-12-16 17:15:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 13
+	}, {
+		"customer_nick_name": "美利達～Lisa",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "2357",
+		"book_count": 0,
+		"last_come_time": "",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 14
+	}, {
+		"customer_nick_name": "宁夏",
+		"customer_remark": "",
+		"customer_phone": "",
+		"customer_id": "380",
+		"book_count": 0,
+		"last_come_time": "2016-01-01 10:45:00.0",
+		"operate_time": "",
+		"operate_mng_name": "",
+		"idx": 15
+	}],
+	"page": 2,
+	"errcode": "00000",
+	"errmsg": "OK"
+}
